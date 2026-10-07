@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ishabytes/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
